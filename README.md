@@ -1,2 +1,2 @@
 # hello-world
-My first git repo for c language
+My first git repo 
